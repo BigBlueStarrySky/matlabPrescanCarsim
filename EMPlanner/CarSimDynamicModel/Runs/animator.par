@@ -1,0 +1,10 @@
+PARSFILE
+search_path_append .
+search_path_append D:\AutoDriveLearning\matlabPrescanCarsim\EMPlanner\CarSimDynamicModel\
+search_path_append E:\software\CarSim2020\CarSim2020Prog\Resources\
+search_path_append E:\software\CarSim2020\CarSim2020Prog\
+search_path_append E:\software\CarSim2020\CarSim2020Prog\Resources\Animator\Deprecated_Assets\
+set_run_slot 0
+PARSFILE Results\Run_0285cfdc-36ed-4e9c-8fd9-30a095102be4\Run_all.par
+FILEBASE Run_0285cfdc-36ed-4e9c-8fd9-30a095102be4
+END

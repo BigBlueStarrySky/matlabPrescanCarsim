@@ -1,0 +1,125 @@
+2022-03-28T11:04:50 Logfile initialized.
+2022-03-28T11:04:50 CarSim 2020.0
+2022-03-28T11:04:50 -
+2022-03-28T11:04:50 command-line: 
+2022-03-28T11:04:50 -
+2022-03-28T11:04:50 Working Dir: D:\AutoDriveLearning\matlabPrescanCarsim\EMPlanner\CarSimDynamicModel\
+2022-03-28T11:04:50 Program Dir: E:\software\CarSim2020\CarSim2020Prog\
+2022-03-28T11:04:50 -
+2022-03-28T11:04:50 OS Version:        6.2 (build 9200)
+2022-03-28T11:04:50 CPU Architecture:  x64
+2022-03-28T11:04:50 CPU Count:         16
+2022-03-28T11:04:50 CPU Level/Rev:     6/36097
+2022-03-28T11:04:50 Start Mem Total:   16147 MB
+2022-03-28T11:04:50 Start Mem Used:    48%
+2022-03-28T11:04:50 -
+2022-03-28T11:04:50 Loaded dataset index cache in 0.00s, 0.5 megabytes.
+2022-03-28T11:04:51 Feature                  Version  Acquired  Count
+2022-03-28T11:04:51 -----------------        -------  --------  -----
+2022-03-28T11:04:51 bikesimsguiCN            2020     [   ]          
+2022-03-28T11:04:51 bikesimCN                2020     [   ]          
+2022-03-28T11:04:51 bikesimtCN               2020     [   ]          
+2022-03-28T11:04:51 bikesimsmoCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimsmortCN           2020     [   ]          
+2022-03-28T11:04:51 bikesimsrcCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimsrctCN            2020     [   ]          
+2022-03-28T11:04:51 bikesimopalCN            2020     [   ]          
+2022-03-28T11:04:51 bikesimopaltCN           2020     [   ]          
+2022-03-28T11:04:51 bikesimlinuxCN           2020     [   ]          
+2022-03-28T11:04:51 bikesimlinuxtCN          2020     [   ]          
+2022-03-28T11:04:51 bikesimdspaceCN          2020     [   ]          
+2022-03-28T11:04:51 bikesimdspacetCN         2020     [   ]          
+2022-03-28T11:04:51 bikesimadiCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimaditCN            2020     [   ]          
+2022-03-28T11:04:51 bikesimlabviewCN         2020     [   ]          
+2022-03-28T11:04:51 bikesimlabviewtCN        2020     [   ]          
+2022-03-28T11:04:51 bikesimwdsCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimwdstCN            2020     [   ]          
+2022-03-28T11:04:51 bikesimfrtCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimfCN               2020     [   ]          
+2022-03-28T11:04:51 bikesimlabcarCN          2020     [   ]          
+2022-03-28T11:04:51 bikesimlabcartCN         2020     [   ]          
+2022-03-28T11:04:51 bikesimaniCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimrtsvrCN           2020     [   ]          
+2022-03-28T11:04:51 bikesimrtsvrtCN          2020     [   ]          
+2022-03-28T11:04:51 bikesimartelabCN         2020     [   ]          
+2022-03-28T11:04:51 bikesimartelabtCN        2020     [   ]          
+2022-03-28T11:04:51 bikesimepiCN             2020     [   ]          
+2022-03-28T11:04:51 bikesimengmtCN           2020     [   ]          
+2022-03-28T11:04:51 bikesimengmtrtCN         2020     [   ]          
+2022-03-28T11:04:51 trucksimsguiCN           2020     [   ]          
+2022-03-28T11:04:51 trucksimCN               2020     [   ]          
+2022-03-28T11:04:51 trucksimsmoCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimsmortCN          2020     [   ]          
+2022-03-28T11:04:51 trucksimtCN              2020     [   ]          
+2022-03-28T11:04:51 trucksimsrcCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimsrctCN           2020     [   ]          
+2022-03-28T11:04:51 trucksimopalCN           2020     [   ]          
+2022-03-28T11:04:51 trucksimopaltCN          2020     [   ]          
+2022-03-28T11:04:51 trucksimlinuxCN          2020     [   ]          
+2022-03-28T11:04:51 trucksimlinuxtCN         2020     [   ]          
+2022-03-28T11:04:51 trucksimdspaceCN         2020     [   ]          
+2022-03-28T11:04:51 trucksimdspacetCN        2020     [   ]          
+2022-03-28T11:04:51 trucksimadiCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimaditCN           2020     [   ]          
+2022-03-28T11:04:51 trucksimlabviewCN        2020     [   ]          
+2022-03-28T11:04:51 trucksimlabviewtCN       2020     [   ]          
+2022-03-28T11:04:51 trucksimwdsCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimwdstCN           2020     [   ]          
+2022-03-28T11:04:51 trucksimfrtCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimfCN              2020     [   ]          
+2022-03-28T11:04:51 trucksimlabtruckCN       2020     [   ]          
+2022-03-28T11:04:51 trucksimlabtrucktCN      2020     [   ]          
+2022-03-28T11:04:51 trucksimaniCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimrtsvrCN          2020     [   ]          
+2022-03-28T11:04:51 trucksimrtsvrtCN         2020     [   ]          
+2022-03-28T11:04:51 trucksimartelabCN        2020     [   ]          
+2022-03-28T11:04:51 trucksimartelabtCN       2020     [   ]          
+2022-03-28T11:04:51 trucksimepiCN            2020     [   ]          
+2022-03-28T11:04:51 trucksimengmtCN          2020     [   ]          
+2022-03-28T11:04:51 trucksimengmtrtCN        2020     [   ]          
+2022-03-28T11:04:51 carsimsguiCN             2020     [   ]          
+2022-03-28T11:04:51 carsimCN                 2020     [   ]          
+2022-03-28T11:04:51 carsimtCN                2020     [   ]          
+2022-03-28T11:04:51 carsimsmoCN              2020     [   ]          
+2022-03-28T11:04:51 carsimsmortCN            2020     [   ]          
+2022-03-28T11:04:51 carsimsrcCN              2020     [   ]          
+2022-03-28T11:04:51 carsimsrctCN             2020     [   ]          
+2022-03-28T11:04:51 carsimopalCN             2020     [   ]          
+2022-03-28T11:04:51 carsimopaltCN            2020     [   ]          
+2022-03-28T11:04:51 carsimlinuxCN            2020     [   ]          
+2022-03-28T11:04:51 carsimlinuxtCN           2020     [   ]          
+2022-03-28T11:04:51 carsimdspaceCN           2020     [   ]          
+2022-03-28T11:04:51 carsimdspacetCN          2020     [   ]          
+2022-03-28T11:04:51 carsimadiCN              2020     [   ]          
+2022-03-28T11:04:51 carsimaditCN             2020     [   ]          
+2022-03-28T11:04:51 carsimlabviewCN          2020     [   ]          
+2022-03-28T11:04:51 carsimlabviewtCN         2020     [   ]          
+2022-03-28T11:04:51 carsimwdsCN              2020     [   ]          
+2022-03-28T11:04:51 carsimwdstCN             2020     [   ]          
+2022-03-28T11:04:51 carsimfrtCN              2020     [   ]          
+2022-03-28T11:04:51 carsimfCN                2020     [   ]          
+2022-03-28T11:04:51 carsimlabcarCN           2020     [   ]          
+2022-03-28T11:04:51 carsimlabcartCN          2020     [   ]          
+2022-03-28T11:04:51 carsimaniCN              2020     [   ]          
+2022-03-28T11:04:51 carsimrtsvrCN            2020     [   ]          
+2022-03-28T11:04:51 carsimrtsvrtCN           2020     [   ]          
+2022-03-28T11:04:51 carsimartelabCN          2020     [   ]          
+2022-03-28T11:04:51 carsimartelabtCN         2020     [   ]          
+2022-03-28T11:04:51 carsimepiCN              2020     [   ]          
+2022-03-28T11:04:51 carsimengmtCN            2020     [   ]          
+2022-03-28T11:04:51 carsimengmtrtCN          2020     [   ]          
+2022-03-28T11:04:51 sussimCN                 2020     [   ]          
+2022-03-28T11:04:51 Acquired [1] license for carsimsguiCN
+2022-03-28T11:04:51 Acquired [1] license for carsimCN
+2022-03-28T11:04:51 Acquired [1] license for carsimwdsCN
+2022-03-28T11:04:51 Acquired [1] license for carsimopalCN
+2022-03-28T11:04:51 Acquired [1] license for carsimlinuxCN
+2022-03-28T11:04:51 Acquired [1] license for carsimdspaceCN
+2022-03-28T11:04:51 Acquired [1] license for carsimlabviewCN
+2022-03-28T11:04:51 Acquired [1] license for carsimlabcarCN
+2022-03-28T11:04:51 Acquired [1] license for carsimrtsvrCN
+2022-03-28T11:04:51 Acquired [1] license for carsimartelabCN
+2022-03-28T11:04:51 Acquired [1] license for carsimepiCN
+2022-03-28T11:04:51 Acquired [1] license for carsimtCN
+2022-03-28T11:04:51 Acquired [1] license for car
